@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sanG-github/everyday-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sanG-github/everyday-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanG-github/everyday-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sanG-github/everyday-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sanG-github/everyday-leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sanG-github/everyday-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanG-github/everyday-leetcode/tree/master/0217-contains-duplicate) |
@@ -88,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sanG-github/everyday-leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
