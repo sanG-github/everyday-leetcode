@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0072-edit-distance](https://github.com/sanG-github/everyday-leetcode/tree/master/0072-edit-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Trie
 |  |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanG-github/everyday-leetcode/tree/master/0141-linked-list-cycle) |
+| [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,4 +121,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
