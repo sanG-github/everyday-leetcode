@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/sanG-github/everyday-leetcode/tree/master/0072-edit-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Trie
 |  |
@@ -98,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanG-github/everyday-leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/sanG-github/everyday-leetcode/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
