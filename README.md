@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0792-binary-search](https://github.com/sanG-github/everyday-leetcode/tree/master/0792-binary-search) |
+| [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/0133-clone-graph) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/0133-clone-graph) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
