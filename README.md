@@ -131,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+## Database
+|  |
+| ------- |
+| [0550-game-play-analysis-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/0550-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
