@@ -85,12 +85,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/0133-clone-graph) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/sanG-github/everyday-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/0133-clone-graph) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/sanG-github/everyday-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/0133-clone-graph) |
+| [0797-all-paths-from-source-to-target](https://github.com/sanG-github/everyday-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Matrix
 |  |
 | ------- |
@@ -135,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/0550-game-play-analysis-iv) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sanG-github/everyday-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
