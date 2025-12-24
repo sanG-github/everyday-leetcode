@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/sanG-github/everyday-leetcode/tree/master/0072-edit-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
+| [2810-faulty-keyboard](https://github.com/sanG-github/everyday-leetcode/tree/master/2810-faulty-keyboard) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Trie
 |  |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
+| [2810-faulty-keyboard](https://github.com/sanG-github/everyday-leetcode/tree/master/2810-faulty-keyboard) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Database
 |  |
