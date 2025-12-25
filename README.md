@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0769-max-chunks-to-make-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/sanG-github/everyday-leetcode/tree/master/0792-binary-search) |
 | [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
+| [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sanG-github/everyday-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
 ## String
 |  |
 | ------- |
