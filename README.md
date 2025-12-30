@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
 | [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
+| [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack
 |  |
 | ------- |
@@ -166,4 +168,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanG-github/everyday-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
