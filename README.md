@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanG-github/everyday-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sanG-github/everyday-leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/sanG-github/everyday-leetcode/tree/master/0072-edit-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0784-letter-case-permutation](https://github.com/sanG-github/everyday-leetcode/tree/master/0784-letter-case-permutation) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sanG-github/everyday-leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/sanG-github/everyday-leetcode/tree/master/0072-edit-distance) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sanG-github/everyday-leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Graph
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sanG-github/everyday-leetcode/tree/master/0022-generate-parentheses) |
 | [0784-letter-case-permutation](https://github.com/sanG-github/everyday-leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanG-github/everyday-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Greedy
