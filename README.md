@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sanG-github/everyday-leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sanG-github/everyday-leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/sanG-github/everyday-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/sanG-github/everyday-leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0792-binary-search](https://github.com/sanG-github/everyday-leetcode/tree/master/0792-binary-search) |
+| [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
+| [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Bit Manipulation
 |  |
@@ -184,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sanG-github/everyday-leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Number Theory
+|  |
+| ------- |
+| [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
