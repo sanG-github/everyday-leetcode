@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sanG-github/everyday-leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sanG-github/everyday-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
 | [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanG-github/everyday-leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/sanG-github/everyday-leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sanG-github/everyday-leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/sanG-github/everyday-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/sanG-github/everyday-leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -235,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sanG-github/everyday-leetcode/tree/master/0096-unique-binary-search-trees) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanG-github/everyday-leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
