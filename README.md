@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sanG-github/everyday-leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
 | [2810-faulty-keyboard](https://github.com/sanG-github/everyday-leetcode/tree/master/2810-faulty-keyboard) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sanG-github/everyday-leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 ## Trie
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/sanG-github/everyday-leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sanG-github/everyday-leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 ## Divide and Conquer
 |  |
 | ------- |
