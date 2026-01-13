@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/sanG-github/everyday-leetcode/tree/master/0792-binary-search) |
 | [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/sanG-github/everyday-leetcode/tree/master/1260-shift-2d-grid) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanG-github/everyday-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sanG-github/everyday-leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sanG-github/everyday-leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/sanG-github/everyday-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/sanG-github/everyday-leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0792-binary-search](https://github.com/sanG-github/everyday-leetcode/tree/master/0792-binary-search) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanG-github/everyday-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2560-house-robber-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/2560-house-robber-iv) |
 | [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
 ## Tree
