@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/sanG-github/everyday-leetcode/tree/master/1260-shift-2d-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanG-github/everyday-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sanG-github/everyday-leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sanG-github/everyday-leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sanG-github/everyday-leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sanG-github/everyday-leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 ## String
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0784-letter-case-permutation](https://github.com/sanG-github/everyday-leetcode/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
 | [2810-faulty-keyboard](https://github.com/sanG-github/everyday-leetcode/tree/master/2810-faulty-keyboard) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanG-github/everyday-leetcode/tree/master/0169-majority-element) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Two Pointers
 |  |
