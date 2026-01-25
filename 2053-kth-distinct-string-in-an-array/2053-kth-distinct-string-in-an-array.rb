@@ -6,8 +6,8 @@ def kth_distinct(arr, k)
 
     arr.each { |item| hash[item] += 1 }
 
-    hash.to_a.each do |item, count|
-        k -= 1 if count == 1
+    arr.each do |item|
+        k -= 1 if hash[item] == 1
 
         return item if k == 0
     end
