@@ -14,8 +14,8 @@ end
 
 def normalize(a, b)
   max = [a.size, b.size].max
-  [a + [0] * (max - a.size),
-   b + [0] * (max - b.size)]
+
+  [[0] * (max - a.size) + a, [0] * (max - b.size) + b]
 end
 
 def almost_equal?(a, b)
