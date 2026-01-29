@@ -31,13 +31,13 @@ def dijkstra(graph, start)
     visited = {}
     nodes = graph.keys
 
-    nodes.each { |node| distances[node] = Float::INFINITY }
     distances[start] = 0
 
     until nodes.empty?
-        min_node = (nodes - visited.keys).min_by { |node| distances[node] }
+        not_visited_nodes = nodes - visited.keys
+        min_node = not_visited_nodes.min_by { |node| distances[node] || Float::INFINITY }
 
-        break if distances[min_node] == Float::INFINITY
+        break unless distances[min_node]
 
         graph[min_node].each do |neighbor, value|
             alt = distances[min_node] + value
