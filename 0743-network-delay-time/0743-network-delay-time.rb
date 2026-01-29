@@ -35,7 +35,7 @@ def dijkstra(graph, start)
     distances[start] = 0
 
     until nodes.empty?
-        min_node = nodes.min_by { |node| visited[node] ? Float::INFINITY : distances[node] }
+        min_node = (nodes - visited.keys).min_by { |node| distances[node] }
 
         break if distances[min_node] == Float::INFINITY
 
