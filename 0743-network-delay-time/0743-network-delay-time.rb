@@ -33,7 +33,7 @@ def dijkstra(graph, start)
 
     distances[start] = 0
 
-    until nodes.empty?
+    until visited.size == nodes.size
         not_visited_nodes = nodes - visited
         min_node = not_visited_nodes.min_by { |node| distances[node] || Float::INFINITY }
 
@@ -45,7 +45,6 @@ def dijkstra(graph, start)
         end
 
         visited << min_node
-        nodes.delete(min_node)
     end
 
     distances
