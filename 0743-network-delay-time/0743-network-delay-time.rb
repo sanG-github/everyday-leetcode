@@ -37,8 +37,6 @@ def dijkstra(graph, start)
         not_visited_nodes = nodes - visited.keys
         min_node = not_visited_nodes.min_by { |node| distances[node] || Float::INFINITY }
 
-        puts "not_visited_nodes: #{not_visited_nodes}, #{distances}"
-
         break unless distances[min_node]
 
         graph[min_node].each do |neighbor, value|
