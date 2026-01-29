@@ -27,24 +27,26 @@ end
 # }
 
 def dijkstra(graph, start)
-    distances = {}
-    visited = []
+    distances = {} # distances from start to other nodes
+    distances[start] = 0 # distance from start to start is always 0 (shortest)
     nodes = graph.keys
+    visited = []
 
-    distances[start] = 0
+    while visited.size != nodes.size # traverse all nodes
+        not_visited = nodes - visited # only check the not-visited nodes
+        shortest_node = not_visited.min_by {|node| distances[node] || Float::INFINITY } # get the not-visited node with shortest path 
 
-    until visited.size == nodes.size
-        not_visited_nodes = nodes - visited
-        min_node = not_visited_nodes.min_by { |node| distances[node] || Float::INFINITY }
+        adjacent_nodes = graph[shortest_node]
 
-        break unless distances[min_node]
+        break if distances[shortest_node].nil? # this node is unreachable (no path)
 
-        graph[min_node].each do |neighbor, value|
-            alt = distances[min_node] + value
-            distances[neighbor] = alt if !distances[neighbor] || alt < distances[neighbor]
+        adjacent_nodes.each do |node, distance|
+            accumulated_distance = distances[shortest_node] + distance
+
+            distances[node] = distances[node] ? [accumulated_distance, distances[node]].min : accumulated_distance
         end
 
-        visited << min_node
+        visited << shortest_node
     end
 
     distances
