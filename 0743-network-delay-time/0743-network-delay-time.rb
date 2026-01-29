@@ -28,13 +28,13 @@ end
 
 def dijkstra(graph, start)
     distances = {}
-    visited = {}
+    visited = []
     nodes = graph.keys
 
     distances[start] = 0
 
     until nodes.empty?
-        not_visited_nodes = nodes - visited.keys
+        not_visited_nodes = nodes - visited
         min_node = not_visited_nodes.min_by { |node| distances[node] || Float::INFINITY }
 
         break unless distances[min_node]
@@ -44,7 +44,7 @@ def dijkstra(graph, start)
             distances[neighbor] = alt if !distances[neighbor] || alt < distances[neighbor]
         end
 
-        visited[min_node] = true
+        visited << min_node
         nodes.delete(min_node)
     end
 
