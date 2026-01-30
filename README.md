@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sanG-github/everyday-leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
+| [3133-minimum-array-end](https://github.com/sanG-github/everyday-leetcode/tree/master/3133-minimum-array-end) |
 ## Union Find
 |  |
 | ------- |
