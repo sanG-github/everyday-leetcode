@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/0550-game-play-analysis-iv) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sanG-github/everyday-leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [3497-analyze-subscription-conversion](https://github.com/sanG-github/everyday-leetcode/tree/master/3497-analyze-subscription-conversion) |
 ## Backtracking
 |  |
 | ------- |
