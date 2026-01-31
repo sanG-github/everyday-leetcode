@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/sanG-github/everyday-leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanG-github/everyday-leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/sanG-github/everyday-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sanG-github/everyday-leetcode/tree/master/0743-network-delay-time) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -298,4 +301,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sanG-github/everyday-leetcode/tree/master/0743-network-delay-time) |
+## Topological Sort
+|  |
+| ------- |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
