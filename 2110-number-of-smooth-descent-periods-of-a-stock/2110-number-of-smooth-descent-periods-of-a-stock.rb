@@ -1,32 +1,18 @@
 # @param {Integer[]} prices
 # @return {Integer}
 def get_descent_periods(prices)
-    arr = []
-    descent_arr = []
+    count = 1
     total = prices.size
 
-    prices.each_index do |i|
-        last_item = descent_arr[-1]
-
-        puts "#{last_item}, #{descent_arr.size}"
-
-        if last_item.nil? || prices[i] == last_item - 1
-            descent_arr << prices[i]
-        elsif descent_arr.size > 1
-            arr << descent_arr
-            descent_arr = [prices[i]]
+    1.upto(prices.size - 1) do |i|
+        if prices[i] == prices[i-1] - 1
+            count += 1
         else
-            descent_arr = [prices[i]]
+            total += count * (count - 1) / 2
+
+            count = 1 # Reset, that number is the first element
         end
     end
 
-    arr << descent_arr if descent_arr.size > 1
-
-    arr.each do |descent_arr|
-        count = descent_arr.size
-
-        total += count * (count - 1) / 2
-    end
-
-    total
+    total += count * (count - 1) / 2 # Accumulate last chain
 end
