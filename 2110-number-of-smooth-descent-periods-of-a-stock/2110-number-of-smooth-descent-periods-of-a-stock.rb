@@ -25,8 +25,6 @@ def get_descent_periods(prices)
     arr.each do |descent_arr|
         count = descent_arr.size
 
-        puts "adding: count: #{count}, from: #{descent_arr[0]}, to: #{descent_arr[-1]}"
-
         total += count * (count - 1) / 2
     end
 
