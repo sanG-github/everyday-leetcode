@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2810-faulty-keyboard](https://github.com/sanG-github/everyday-leetcode/tree/master/2810-faulty-keyboard) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sanG-github/everyday-leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/sanG-github/everyday-leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Trie
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/sanG-github/everyday-leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sanG-github/everyday-leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/sanG-github/everyday-leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Simulation
 |  |
 | ------- |
