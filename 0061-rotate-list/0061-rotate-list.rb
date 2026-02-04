@@ -26,8 +26,6 @@ def rotate_right(head, k)
 
     return head if k == 0
 
-    puts "tail: #{tail.val}, count: #{count}, k: #{k}"
-
     while count - k - 1 > 0
         runner = runner.next
         count -= 1
