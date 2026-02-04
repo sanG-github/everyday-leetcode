@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanG-github/everyday-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/sanG-github/everyday-leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sanG-github/everyday-leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sanG-github/everyday-leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sanG-github/everyday-leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sanG-github/everyday-leetcode/tree/master/0141-linked-list-cycle) |
 | [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sanG-github/everyday-leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
