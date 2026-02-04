@@ -21,14 +21,17 @@ def rotate_right(head, k)
     end
 
     tail = runner
-    k %= count
+    runner = head
+    k = k % count
 
     return head if k == 0
 
-    # find new tail
-    runner = head
-    steps = count - k - 1
-    steps.times { runner = runner.next }
+    puts "tail: #{tail.val}, count: #{count}, k: #{k}"
+
+    while count - k - 1 > 0
+        runner = runner.next
+        count -= 1
+    end
 
     new_head = runner.next
     runner.next = nil
