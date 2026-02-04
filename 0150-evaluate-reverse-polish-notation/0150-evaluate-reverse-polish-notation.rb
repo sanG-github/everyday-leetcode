@@ -7,13 +7,15 @@ def eval_rpn(tokens)
 
     tokens.each do |token|
         if operands.include?(token)
-            right = queue.pop.to_f
-            left = queue.pop.to_f
+            right = queue.pop
+            left = queue.pop
+
+            puts "Doing: #{left} #{token} #{right}"
 
             result = left + right if token == '+'
             result = left - right if token == '-'
             result = left * right if token == '*'
-            result = left / right if token == '/'
+            result = left / right.to_f if token == '/'
 
             queue << result.to_i
         else
