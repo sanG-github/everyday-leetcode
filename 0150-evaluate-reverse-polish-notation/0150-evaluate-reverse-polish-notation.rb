@@ -10,8 +10,6 @@ def eval_rpn(tokens)
             right = queue.pop
             left = queue.pop
 
-            puts "Doing: #{left} #{token} #{right}"
-
             result = left + right if token == '+'
             result = left - right if token == '-'
             result = left * right if token == '*'
