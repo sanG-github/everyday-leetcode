@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sanG-github/everyday-leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanG-github/everyday-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sanG-github/everyday-leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sanG-github/everyday-leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2560-house-robber-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/2560-house-robber-iv) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanG-github/everyday-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanG-github/everyday-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
 | [2961-double-modular-exponentiation](https://github.com/sanG-github/everyday-leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/sanG-github/everyday-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/sanG-github/everyday-leetcode/tree/master/1260-shift-2d-grid) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2810-faulty-keyboard](https://github.com/sanG-github/everyday-leetcode/tree/master/2810-faulty-keyboard) |
 | [2961-double-modular-exponentiation](https://github.com/sanG-github/everyday-leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -326,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
