@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sanG-github/everyday-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/sanG-github/everyday-leetcode/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sanG-github/everyday-leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/0133-clone-graph) |
 | [0508-most-frequent-subtree-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/sanG-github/everyday-leetcode/tree/master/0563-binary-tree-tilt) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sanG-github/everyday-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/sanG-github/everyday-leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
