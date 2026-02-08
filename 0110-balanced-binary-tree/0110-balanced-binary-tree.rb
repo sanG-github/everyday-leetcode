@@ -9,6 +9,8 @@
 # end
 # @param {TreeNode} root
 # @return {Boolean}
+UNBALANCED = -1
+
 def is_balanced(root)
     height(root) != -1
 end
@@ -18,13 +20,13 @@ def height(root)
 
     left = height(root.left)
 
-    return -1 if left == -1
+    return UNBALANCED if left == UNBALANCED
 
     right = height(root.right)
 
-    return -1 if right == -1
+    return UNBALANCED if right == UNBALANCED
 
-    return -1 if (left - right).abs > 1
+    return UNBALANCED if (left - right).abs > 1
 
     [left, right].max + 1
 end
