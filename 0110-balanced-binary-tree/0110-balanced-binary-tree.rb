@@ -12,7 +12,7 @@
 UNBALANCED = -1
 
 def is_balanced(root)
-    height(root) != -1
+    height(root) != UNBALANCED
 end
 
 def height(root)
