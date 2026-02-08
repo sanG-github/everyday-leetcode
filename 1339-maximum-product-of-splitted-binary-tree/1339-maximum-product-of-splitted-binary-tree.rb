@@ -12,7 +12,6 @@
 def max_product(root)
     @sums = []
     max = 0
-
     total = sum_of(root)
 
     @sums.each { |sum| max = [max, sum * (total - sum)].max }
