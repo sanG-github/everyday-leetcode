@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanG-github/everyday-leetcode/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/sanG-github/everyday-leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanG-github/everyday-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanG-github/everyday-leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -280,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1382-balance-a-binary-search-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2560-house-robber-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/2560-house-robber-iv) |
 | [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
@@ -317,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sanG-github/everyday-leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
