@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/sanG-github/everyday-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanG-github/everyday-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
+| [1925-count-square-sum-triples](https://github.com/sanG-github/everyday-leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanG-github/everyday-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/sanG-github/everyday-leetcode/tree/master/1925-count-square-sum-triples) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
