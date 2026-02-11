@@ -7,15 +7,15 @@ def minimum_abs_difference(arr)
     min_arr = []
 
     1.upto(arr.size - 1) do |i|
-        diff = (arr[i-1] - arr[i]).abs
+        diff = arr[i] - arr[i-1]
 
         if diff == min_diff
-            min_arr << [arr[i-1], arr[i]].sort
+            min_arr << [arr[i-1], arr[i]]
         elsif diff < min_diff
-            min_arr = [[arr[i-1], arr[i]]].sort
+            min_arr = [[arr[i-1], arr[i]]]
             min_diff = diff
         end
     end
 
-    min_arr.sort
+    min_arr
 end
