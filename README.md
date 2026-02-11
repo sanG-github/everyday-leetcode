@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/sanG-github/everyday-leetcode/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sanG-github/everyday-leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3133-minimum-array-end](https://github.com/sanG-github/everyday-leetcode/tree/master/3133-minimum-array-end) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Union Find
 |  |
 | ------- |
