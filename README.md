@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
 | [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
 | [2961-double-modular-exponentiation](https://github.com/sanG-github/everyday-leetcode/tree/master/2961-double-modular-exponentiation) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/sanG-github/everyday-leetcode/tree/master/1200-minimum-absolute-difference) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sanG-github/everyday-leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/sanG-github/everyday-leetcode/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3713-longest-balanced-substring-i) |
