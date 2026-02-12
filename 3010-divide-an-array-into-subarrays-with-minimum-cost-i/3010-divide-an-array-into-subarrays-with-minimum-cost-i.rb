@@ -1,7 +1,10 @@
 # @param {Integer[]} nums
 # @return {Integer}
 def minimum_cost(nums)
-    arr = nums[1..-1].sort
+    first_ele = nums[0]
     
-    nums[0] + arr[0] + arr[1]
+    nums.shift
+    nums.sort!
+    
+    first_ele + nums[0] + nums[1]
 end
