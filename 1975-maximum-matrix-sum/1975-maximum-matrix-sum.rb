@@ -15,15 +15,5 @@ def max_matrix_sum(matrix)
         end
     end
 
-    puts "min_item: #{min_item}, num_of_negative_items: #{num_of_negative_items}"
-
     num_of_negative_items.even? ? sum : sum - 2 * min_item
-
-    # flat_matrix = matrix.flatten
-    # positive_matrix = flat_matrix.map { _1.abs }
-    # negative = flat_matrix.select { _1 <= 0 }
-
-    # negative_item = negative.size.even? ? 0 : positive_matrix.sort[0]
-
-    # positive_matrix.sum - 2 * negative_item
 end
