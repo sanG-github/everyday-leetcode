@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/sanG-github/everyday-leetcode/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/sanG-github/everyday-leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/sanG-github/everyday-leetcode/tree/master/1260-shift-2d-grid) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanG-github/everyday-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanG-github/everyday-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/sanG-github/everyday-leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/sanG-github/everyday-leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanG-github/everyday-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanG-github/everyday-leetcode/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanG-github/everyday-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sanG-github/everyday-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/sanG-github/everyday-leetcode/tree/master/0784-letter-case-permutation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanG-github/everyday-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanG-github/everyday-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sanG-github/everyday-leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
