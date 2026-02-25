@@ -6,7 +6,6 @@ def sort_by_bits(arr)
 
     arr.each do |num|
         num_of_1 = num.to_s(2).count('1')
-        puts "Adding #{num} to #{num_of_1}, #{hash}"
         hash[num_of_1] << num
     end
 
