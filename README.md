@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/sanG-github/everyday-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/sanG-github/everyday-leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanG-github/everyday-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sanG-github/everyday-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanG-github/everyday-leetcode/tree/master/0217-contains-duplicate) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/sanG-github/everyday-leetcode/tree/master/0134-gas-station) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1382-balance-a-binary-search-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
