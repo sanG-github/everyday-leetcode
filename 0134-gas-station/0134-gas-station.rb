@@ -2,6 +2,7 @@
 # @param {Integer[]} cost
 # @return {Integer}
 def can_complete_circuit(gas, cost)
+    # Gready
     total = 0
     tank = 0 
     start = 0
