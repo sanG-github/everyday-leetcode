@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2560-house-robber-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/2560-house-robber-iv) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
 | [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/sanG-github/everyday-leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2961-double-modular-exponentiation](https://github.com/sanG-github/everyday-leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/sanG-github/everyday-leetcode/tree/master/1260-shift-2d-grid) |
 | [1975-maximum-matrix-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sanG-github/everyday-leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/sanG-github/everyday-leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack
 |  |
