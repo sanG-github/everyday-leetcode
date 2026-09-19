@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/sanG-github/everyday-leetcode/tree/master/0784-letter-case-permutation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanG-github/everyday-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanG-github/everyday-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/sanG-github/everyday-leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sanG-github/everyday-leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
