@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2560-house-robber-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/2560-house-robber-iv) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
 | [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/sanG-github/everyday-leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/sanG-github/everyday-leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2961-double-modular-exponentiation](https://github.com/sanG-github/everyday-leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/sanG-github/everyday-leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanG-github/everyday-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sanG-github/everyday-leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-thousand-separator](https://github.com/sanG-github/everyday-leetcode/tree/master/1556-thousand-separator) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/sanG-github/everyday-leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2810-faulty-keyboard](https://github.com/sanG-github/everyday-leetcode/tree/master/2810-faulty-keyboard) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sanG-github/everyday-leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanG-github/everyday-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sanG-github/everyday-leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanG-github/everyday-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2560-house-robber-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/2560-house-robber-iv) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/sanG-github/everyday-leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Graph
 |  |
 | ------- |
