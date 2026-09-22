@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/sanG-github/everyday-leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanG-github/everyday-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/sanG-github/everyday-leetcode/tree/master/0268-missing-number) |
+| [1753-maximum-score-from-removing-stones](https://github.com/sanG-github/everyday-leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1925-count-square-sum-triples](https://github.com/sanG-github/everyday-leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanG-github/everyday-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/sanG-github/everyday-leetcode/tree/master/0134-gas-station) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1382-balance-a-binary-search-tree](https://github.com/sanG-github/everyday-leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1753-maximum-score-from-removing-stones](https://github.com/sanG-github/everyday-leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1975-maximum-matrix-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2560-house-robber-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/2560-house-robber-iv) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sanG-github/everyday-leetcode/tree/master/0743-network-delay-time) |
+| [1753-maximum-score-from-removing-stones](https://github.com/sanG-github/everyday-leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 ## Shortest Path
 |  |
 | ------- |
