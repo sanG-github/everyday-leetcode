@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sanG-github/everyday-leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3978-unique-middle-element](https://github.com/sanG-github/everyday-leetcode/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/sanG-github/everyday-leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3978-unique-middle-element](https://github.com/sanG-github/everyday-leetcode/tree/master/3978-unique-middle-element) |
 ## Two Pointers
 |  |
 | ------- |
