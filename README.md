@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/sanG-github/everyday-leetcode/tree/master/0844-backspace-string-compare) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanG-github/everyday-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1556-thousand-separator](https://github.com/sanG-github/everyday-leetcode/tree/master/1556-thousand-separator) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/sanG-github/everyday-leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sanG-github/everyday-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/sanG-github/everyday-leetcode/tree/master/2564-substring-xor-queries) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/sanG-github/everyday-leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanG-github/everyday-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/sanG-github/everyday-leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanG-github/everyday-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanG-github/everyday-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sanG-github/everyday-leetcode/tree/master/3634-minimum-removals-to-balance-array) |
