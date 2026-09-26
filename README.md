@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sanG-github/everyday-leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/sanG-github/everyday-leetcode/tree/master/3379-transformed-array) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanG-github/everyday-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sanG-github/everyday-leetcode/tree/master/3011-find-if-array-can-be-sorted) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sanG-github/everyday-leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sanG-github/everyday-leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sanG-github/everyday-leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sanG-github/everyday-leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-maximum-matrix-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2560-house-robber-iv](https://github.com/sanG-github/everyday-leetcode/tree/master/2560-house-robber-iv) |
 | [2601-prime-subtraction-operation](https://github.com/sanG-github/everyday-leetcode/tree/master/2601-prime-subtraction-operation) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sanG-github/everyday-leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Monotonic Stack
 |  |
 | ------- |
