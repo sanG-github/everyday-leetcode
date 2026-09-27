@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/sanG-github/everyday-leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanG-github/everyday-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanG-github/everyday-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1652-defuse-the-bomb](https://github.com/sanG-github/everyday-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sanG-github/everyday-leetcode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1817-finding-the-users-active-minutes](https://github.com/sanG-github/everyday-leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sanG-github/everyday-leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanG-github/everyday-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1652-defuse-the-bomb](https://github.com/sanG-github/everyday-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/sanG-github/everyday-leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanG-github/everyday-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanG-github/everyday-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
